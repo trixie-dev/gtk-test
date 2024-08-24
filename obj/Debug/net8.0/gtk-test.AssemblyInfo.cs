@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("gtk-test")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+be641f61d47e5c1ac6f2515f9243d7079db45aff")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+16b74c7ade0895628636e22b8027efc31c97988f")]
 [assembly: System.Reflection.AssemblyProductAttribute("gtk-test")]
 [assembly: System.Reflection.AssemblyTitleAttribute("gtk-test")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,0 +1,28 @@
+.label {
+    font-size: 1.2em;
+    font-weight: bold;
+    color: aqua;
+}
+
+levelbar block.zero {
+    background-color: rgb(69, 201, 71);
+}
+
+.level-bar block.six {
+    background-color: rgb(69, 201, 71);
+}
+
+.level-bar block.twelve {
+    background-color: rgb(255, 221, 0);
+}
+.level-bar block.eighteen {
+    background-color: rgb(255, 133, 0);
+}
+.level-bar block.twenty-four {
+    background-color: rgb(255, 1, 0);
+}
+
+.level-bar block.empty {
+    background-color: grey;
+    border: none;
+}

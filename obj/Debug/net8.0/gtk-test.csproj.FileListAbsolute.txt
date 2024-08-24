@@ -22,3 +22,6 @@
 /home/wirbel/Projects/gtk-test/obj/Debug/net8.0/gtk-test.pdb
 /home/wirbel/Projects/gtk-test/obj/Debug/net8.0/gtk-test.genruntimeconfig.cache
 /home/wirbel/Projects/gtk-test/obj/Debug/net8.0/ref/gtk-test.dll
+/home/wirbel/Projects/gtk-test/bin/Debug/net8.0/resources/style.css
+/home/wirbel/Projects/gtk-test/bin/Debug/net8.0/resources/clock_background-1.png
+/home/wirbel/Projects/gtk-test/bin/Debug/net8.0/resources/clock_background-2.png
